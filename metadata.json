@@ -1,0 +1,6 @@
+{
+  "name": "AETHER OS",
+  "description": "Próxima geração de sistemas operacionais corporativos orientados por IA, integrando Command Center, Intelligence, Operations, People e Finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
